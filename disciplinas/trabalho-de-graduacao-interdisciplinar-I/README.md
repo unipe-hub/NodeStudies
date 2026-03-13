@@ -1,37 +1,23 @@
 # Trabalho de Graduação Interdisciplinar I
 
-Este diretório reúne os materiais da disciplina de **TCC I** em um único lugar, para orientar aluno e orientador durante o semestre.
+Este diretório concentra os materiais da disciplina de **TCC I (2026.1)** para apoiar a organização acadêmica entre aluno, equipe e orientador.
 
-## O que você encontra aqui
+## Visão geral
 
-- [ementa.md](./ementa.md): visão oficial da disciplina (objetivos, conteúdo, estratégias e avaliação).
-- [professores.md](./professores.md): lista de professores orientadores, com áreas de interesse e contatos para apoiar a escolha de orientação.
-- [resumos/](./resumos/): explicações curtas de documentos e processos da disciplina.
-- [documentos-tcc/](./documentos-tcc/): arquivos institucionais e modelos usados no fluxo do TCC I.
+- Plano de ensino com objetivos, conteúdo programático, estratégias de ensino e critérios de avaliação.
+- Relação de professores orientadores com contatos e áreas de interesse.
+- Resumo do compromisso de orientação para apoiar o preenchimento correto.
+- Documento institucional de referência para formalização da orientação.
 
 ## Estrutura com propósito
 
-- `README.md`
-Descrição geral da disciplina e mapa de navegação da pasta.
-
-- `ementa.md`
-Plano de ensino da disciplina: ementa, objetivos, conteúdo programático e critérios de avaliação.
-
-- `professores.md`
-Catálogo de possíveis orientadores com titulação, e-mail, Lattes, áreas de atuação e LinkedIn (quando disponível).
-
-- `resumos/compromisso-de-orientacao.md`
-Guia rápido do documento de compromisso: o que preencher, por que é importante e como escolher orientador alinhado ao tema.
-
-- `documentos-tcc/CC - Termo de Compromisso de Orientação - TCC_2026.1-1.pdf`
-Documento institucional de referência para formalização da orientação.
-
-## Fluxo sugerido para o aluno
-
-1. Ler a [ementa](./ementa.md) para entender a disciplina.
-2. Consultar [professores.md](./professores.md) e escolher orientador compatível com o tema.
-3. Ler o [resumo do compromisso](./resumos/compromisso-de-orientacao.md) antes de preencher os documentos.
-4. Usar os arquivos de [documentos-tcc](./documentos-tcc/) conforme orientação da turma/professor.
+| Caminho | Propósito |
+|---|---|
+| [README.md](./README.md) | Contexto geral da disciplina e mapa de navegação da pasta. |
+| [ementa.md](./ementa.md) | Plano de ensino oficial: ementa, objetivos, competências, conteúdo e avaliação. |
+| [professores.md](./professores.md) | Base de possíveis orientadores com titulação, contato, Lattes e áreas de atuação. |
+| [resumos/](./resumos/) | Resumos curtos de processos e documentos importantes da disciplina. |
+| [documentos-tcc/](./documentos-tcc/) | Documentos institucionais e modelos usados na formalização do TCC I. |
 
 ## Observações
 
