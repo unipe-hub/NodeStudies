@@ -8,8 +8,8 @@ Este guia explica como o repositorio esta estruturado, quais cuidados tomar ao e
 
 Antes de contribuir, consulte:
 
-- [README.md](/home/jos-vitor/ze/projects/NodeStudies/README.md), para entender o objetivo do projeto
-- [MATERIAL_DE_TERCEIROS.md](/home/jos-vitor/ze/projects/NodeStudies/MATERIAL_DE_TERCEIROS.md), para saber o que pode ser enviado, o que deve ser apenas referenciado e quais cuidados tomar com direitos autorais
+- [README.md](https://github.com/unipe-hub/NodeStudies?tab=readme-ov-file#), para entender o objetivo do projeto
+- [MATERIAL_DE_TERCEIROS.md](https://github.com/unipe-hub/NodeStudies/blob/main/MATERIAL_DE_TERCEIROS.md), para saber o que pode ser enviado, o que deve ser apenas referenciado e quais cuidados tomar com direitos autorais
 - [FIRST_PULL_REQUEST.md](https://github.com/unipe-hub/.github/blob/main/FIRST_PULL_REQUEST.md), se voce ainda nao tiver familiaridade com o processo de abrir um Pull Request
 
 ## Estrutura do repositorio
@@ -18,8 +18,8 @@ O conteudo fica concentrado em [disciplinas](/home/jos-vitor/ze/projects/NodeStu
 
 Alguns exemplos atuais:
 
-- [disciplinas/estrutura-de-dados-I](/home/jos-vitor/ze/projects/NodeStudies/disciplinas/estrutura-de-dados-I)
-- [disciplinas/trabalho-de-graduacao-interdisciplinar-I](/home/jos-vitor/ze/projects/NodeStudies/disciplinas/trabalho-de-graduacao-interdisciplinar-I)
+- [disciplinas/estrutura-de-dados-I](https://github.com/unipe-hub/NodeStudies/tree/main/disciplinas/estrutura-de-dados-I)
+- [disciplinas/trabalho-de-graduacao-interdisciplinar-I](https://github.com/unipe-hub/NodeStudies/tree/main/disciplinas/trabalho-de-graduacao-interdisciplinar-I)
 
 Cada disciplina pode ter apenas o que fizer sentido para o seu contexto. Em geral, a estrutura pode incluir:
 
