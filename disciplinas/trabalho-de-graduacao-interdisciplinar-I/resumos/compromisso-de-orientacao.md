@@ -17,7 +17,7 @@ Para apoiar a escolha do orientador conforme o tema do trabalho, consulte a list
 
 ## Modelo e arquivos para preenchimento
 
-- Há um **documento exemplo** na pasta de documentos do TCC.
+- Há um **[documento exemplo](../documentos-tcc/CC%20-%20Termo%20de%20Compromisso%20de%20Orientação%20-%20TCC_2026.1-1.pdf)** na pasta de documentos do TCC.
 - Os arquivos editáveis em `.docx` para baixar e modificar estão no Drive da disciplina.
 - O professor pode solicitar um **documento diferente** do que está listado aqui.
 - Caso haja mudança, o aluno deve verificar como enviar o novo arquivo para inclusão no Drive, seguindo o guia com o passo a passo.
@@ -27,5 +27,5 @@ Para apoiar a escolha do orientador conforme o tema do trabalho, consulte a list
 
 ## Referências locais
 
-- [Documentos do TCC I](../documentos-tcc.md)
+- [Documentos do TCC I](https://drive.google.com/drive/folders/1gZEHqgrkb2k1gCqrvqFZ0rFylDISJ4i5?usp=drive_link)
 - Pasta dos modelos: `../documentos-tcc/`
