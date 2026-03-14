@@ -34,7 +34,7 @@ Nao existe obrigacao de repetir exatamente a mesma estrutura em todas as discipl
 
 ## Sobre materiais de terceiros
 
-Se a contribuicao incluir provas, listas, slides, PDFs, documentos ou qualquer outro material que nao seja de sua autoria, siga as orientacoes de [MATERIAL_DE_TERCEIROS.md](/home/jos-vitor/ze/projects/NodeStudies/MATERIAL_DE_TERCEIROS.md).
+Se a contribuicao incluir provas, listas, slides, PDFs, documentos ou qualquer outro material que nao seja de sua autoria, siga as orientacoes de [MATERIAL_DE_TERCEIROS.md](https://github.com/unipe-hub/NodeStudies/blob/main/MATERIAL_DE_TERCEIROS.md).
 
 Em resumo:
 
@@ -47,7 +47,7 @@ Se houver duvida sobre permissao de publicacao, registre isso no PR em vez de as
 ## Como contribuir
 
 1. Escolha a disciplina ou o tema que voce quer melhorar.
-2. Verifique se ja existe uma pasta correspondente dentro de [disciplinas](/home/jos-vitor/ze/projects/NodeStudies/disciplinas).
+2. Verifique se ja existe uma pasta correspondente dentro de [disciplinas](https://github.com/unipe-hub/NodeStudies/tree/main/disciplinas/trabalho-de-graduacao-interdisciplinar-I).
 3. Adicione ou ajuste o conteudo no local mais apropriado.
 4. Revise nomes de arquivos, clareza do texto e organizacao da pasta.
 5. Abra um Pull Request explicando o que foi alterado. Se for seu primeiro, consulte [FIRST_PULL_REQUEST.md](https://github.com/unipe-hub/.github/blob/main/FIRST_PULL_REQUEST.md).
