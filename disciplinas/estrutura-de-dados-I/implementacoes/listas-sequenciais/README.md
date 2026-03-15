@@ -14,6 +14,7 @@ Esta pasta reune implementacoes praticas de listas sequenciais em diferentes lin
 |---|---|
 | [c/lista_sequencial_estatica.c](./c/lista_sequencial_estatica.c) | Versao enxuta em C com criacao da lista, insercao, remocao e busca. |
 | [go/lista_sequencial.go](./go/lista_sequencial.go) | Versao enxuta em Go com `slice`, insercao, remocao e busca. |
+| [python/lista_sequencial.py](./python/lista_sequencial.py) | Versao enxuta em Python usando lista nativa da linguagem. |
 
 ## Operacoes presentes nas versoes atuais
 
@@ -28,6 +29,12 @@ Esta pasta reune implementacoes praticas de listas sequenciais em diferentes lin
 - Em Go, a modelagem mais natural de lista sequencial usa `slice`, nao um vetor fixo como em `C`.
 - A estrutura continua sendo sequencial, porque os elementos sao tratados em ordem e acessados por indice.
 - Insercoes e remocoes no meio ainda exigem deslocamento de elementos, mas a gestao de memoria e feita pela propria linguagem.
+
+## Observacao sobre Python
+
+- Em Python, a forma mais natural de representar uma lista sequencial e usar a lista nativa da linguagem.
+- A estrutura continua sendo sequencial e indexada, mas a manipulacao interna de memoria fica abstraida.
+- Para fins didaticos, a classe foi mantida com os mesmos verbos das outras linguagens: inserir, remover e buscar.
 
 ## Observacoes
 
