@@ -7,11 +7,9 @@
 - **Curso:** Bacharelado em Ciência da Computação
 - **Disciplina:** Estrutura de Dados I
 - **Período:** 3º período
-- **Semestre:** 2026.1
-- **Turno:** Manhã
 - **Carga horária semanal:** 3h
 - **Carga horária semestral:** 60h
-- **Professor responsável:** Prof. Walace Sartori Bonfim
+- **Professores responsáveis:** Prof. Walace Sartori Bonfim, Leandro Santana de Melo, Carlos Herriot Fernandes da Silva Junior
 
 ## Ementa
 

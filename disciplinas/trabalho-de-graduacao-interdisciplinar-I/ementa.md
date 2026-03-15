@@ -7,7 +7,6 @@
 - **Curso:** Bacharelado em Ciência da Computação
 - **Disciplina:** Trabalho de Conclusão de Curso I (TCC I)
 - **Período:** 7º período
-- **Semestre:** 2026.1
 - **Carga horária semanal:** 4h
 - **Carga horária semestral:** 80h
 - **Professor(es) responsável(is):** Prof. Fabrício Araújo; Prof. Ricardo Roberto de Lima
