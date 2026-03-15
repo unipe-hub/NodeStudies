@@ -12,17 +12,22 @@ Esta pasta reune implementacoes praticas de listas sequenciais em diferentes lin
 
 | Caminho | Descricao |
 |---|---|
-| [c/lista_sequencial_estatica.c](./c/lista_sequencial_estatica.c) | Implementacao base em C usando vetor de tamanho fixo e operacoes fundamentais. |
+| [c/lista_sequencial_estatica.c](./c/lista_sequencial_estatica.c) | Versao enxuta em C com criacao da lista, insercao, remocao e busca. |
+| [go/lista_sequencial.go](./go/lista_sequencial.go) | Versao enxuta em Go com `slice`, insercao, remocao e busca. |
 
-## Operacoes presentes na versao em C
+## Operacoes presentes nas versoes atuais
 
-- inicializacao da lista;
-- insercao no final;
+- criacao da lista;
 - insercao em posicao especifica;
 - remocao por posicao;
 - busca por valor;
-- obtencao de elemento por indice;
-- impressao da lista.
+- exemplo simples de uso no `main`.
+
+## Observacao sobre Go
+
+- Em Go, a modelagem mais natural de lista sequencial usa `slice`, nao um vetor fixo como em `C`.
+- A estrutura continua sendo sequencial, porque os elementos sao tratados em ordem e acessados por indice.
+- Insercoes e remocoes no meio ainda exigem deslocamento de elementos, mas a gestao de memoria e feita pela propria linguagem.
 
 ## Observacoes
 
