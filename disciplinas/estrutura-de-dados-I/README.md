@@ -25,6 +25,11 @@ Este diretório reúne materiais de apoio da disciplina de **Estrutura de Dados 
 - Técnicas de encadeamento, recursividade, matrizes esparsas e listas ortogonais.
 - Árvores, percursos, árvores binárias, árvores binárias de busca, árvores B e árvores balanceadas.
 
+## Implementacoes ja adicionadas
+
+- [listas sequenciais](./implementacoes/listas-sequenciais/)
+- [listas encadeadas](./implementacoes/listas-encadeadas/)
+
 ## Observações
 
 - A disciplina exige base sólida em lógica, ponteiros e uso de memória, especialmente em `C`.

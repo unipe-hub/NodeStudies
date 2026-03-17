@@ -15,6 +15,12 @@ implementacoes/
     python/
     java/
     golang/
+  listas-encadeadas/
+    README.md
+    c/
+      lista_encadeada_simples.c
+    go/
+      lista_encadeada.go
 ```
 
 ## Regra de uso
@@ -26,3 +32,4 @@ implementacoes/
 ## Assuntos
 
 - [listas-sequenciais/](./listas-sequenciais/)
+- [listas-encadeadas/](./listas-encadeadas/)
