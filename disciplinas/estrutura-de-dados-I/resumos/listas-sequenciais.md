@@ -1,4 +1,4 @@
-# Resumo 2: Listas Sequenciais
+# Listas Sequenciais
 
 Listas sequenciais sao estruturas lineares em que os elementos ficam armazenados em posicoes contiguas de memoria. Na pratica, a implementacao mais comum em `C` usa um vetor e uma variavel para controlar a quantidade de elementos atualmente armazenados.
 

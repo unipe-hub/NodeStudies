@@ -1,4 +1,4 @@
-# Resumo 1: Revisão Antes de Estrutura de Dados I
+# Revisão Antes de Estrutura de Dados I
 
 Antes de estudar listas, pilhas, filas e árvores, precisamos estar confortáveis com três bases: lógica de programação, ponteiros e memória. Estrutura de dados não é só "guardar valores"; é decidir como organizar dados na memória e como acessá-los com eficiência.
 
